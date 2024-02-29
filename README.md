@@ -11,7 +11,7 @@ Ho voluto riprendere quello che faceva TheDeadMan qualche anno fa con il suo fil
 
 **Q: Non hai niente di meglio da fare?**
 
-*A: Ho di meglio da fare, infatti la procedura è completamente automatizzata, a parte caricare i dati qui si GitHub. Non ho ancora trovato la voglia di fare lo script perché di fatto basta trascinare le directory sul browser.*
+*A: Ho di meglio da fare, infatti la procedura è completamente automatizzata, a parte caricare i dati qui su GitHub. Non ho ancora trovato la voglia di fare lo script perché di fatto basta trascinare le directory sul browser.*
 
 **Q: Cosa succede se ci sono delle ville franche?**
 
