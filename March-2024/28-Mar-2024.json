@@ -1,0 +1,41 @@
+{
+    "datestamp": "28-Mar-2024",
+    "SRING-Italia": [
+        {
+            "name": "Ducato di Milano",
+            "population": 449
+        },
+        {
+            "name": "Ducato di Modena",
+            "population": 470
+        },
+        {
+            "name": "Repubblica di Genova",
+            "population": 405
+        },
+        {
+            "name": "Repubblica fiorentina",
+            "population": 608
+        },
+        {
+            "name": "Repubblica di Siena",
+            "population": 181
+        }
+    ],
+    "Regno Delle Due Sicilie": [
+        {
+            "name": "Provincia di Terra di Lavoro",
+            "population": 316
+        },
+        {
+            "name": "Provincia degli Abruzzi",
+            "population": 334
+        }
+    ],
+    "Serenissima Repubblica di Venezia": [
+        {
+            "name": "Serenissima Repubblica di Venezia",
+            "population": 241
+        }
+    ]
+}
